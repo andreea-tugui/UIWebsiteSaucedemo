@@ -1,4 +1,4 @@
-package com.WebUI.Saucedemo;
+package com.webui.saucedemo;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
